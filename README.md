@@ -105,10 +105,10 @@ $ password: 112233
 ```bash
 
 # Clone este repositório
-$ ...
+$ https://github.com/igorrbn/Frontend_FoodExplorer.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone ...
+$ cd + sua pasta + git clone https://github.com/igorrbn/Frontend_FoodExplorer.git
 
 # Instale as dependências com:
 $ npm install
