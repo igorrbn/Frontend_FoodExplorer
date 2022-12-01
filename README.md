@@ -142,7 +142,7 @@ Neste desafio foram abordados os seguintes temas:
 
 ---
 ## Deploy do projeto.
-link do deploy.... 
+https://foodexplorerr.netlify.app/
 
 
 ---
